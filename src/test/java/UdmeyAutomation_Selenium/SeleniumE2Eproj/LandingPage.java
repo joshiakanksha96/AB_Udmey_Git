@@ -25,5 +25,9 @@ public void varifyBestSellerTab() {
 	boolean d =amazonLandingObj.chkTabBestSellerVisibility().isDisplayed();
 	Assert.assertTrue(d);
 	System.out.println("element is displayed");
+	System.out.println("post git 1");
+	System.out.println("post git 2");
 }
+
+
 }
