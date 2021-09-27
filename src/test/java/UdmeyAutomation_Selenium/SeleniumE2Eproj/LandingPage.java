@@ -29,5 +29,11 @@ public void varifyBestSellerTab() {
 	System.out.println("post git 2");
 }
 
+@Test
+public void gitBranchTest() {
+	System.out.println("branch test");
+}
+
+
 
 }
