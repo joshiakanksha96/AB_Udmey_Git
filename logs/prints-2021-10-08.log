@@ -1,0 +1,5 @@
+14:37:09.132 [main] INFO  UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest - Driver is initialized
+14:37:09.139 [main] INFO  UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest - end of navigateToLandingPage
+14:37:12.276 [main] INFO  UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest - reached till Amazon.in Bestsellers: Electronics
+14:37:14.247 [main] INFO  UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest - Reached till Amazon.in Bestsellers: Computers & Accessories
+14:37:16.144 [main] INFO  UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest - Reached till Amazon.in Bestsellers: External Devices & Data Storage

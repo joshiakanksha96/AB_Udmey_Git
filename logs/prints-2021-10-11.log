@@ -1,0 +1,4 @@
+13:13:58.258 [main] INFO  UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest - reached till Amazon.in Bestsellers: Electronics
+13:13:59.805 [main] INFO  UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest - Reached till Amazon.in Bestsellers: Computers & Accessories
+13:14:01.386 [main] INFO  UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest - Reached till Amazon.in Bestsellers: External Devices & Data Storage
+13:14:05.794 [main] INFO  UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest - Reached till product buy page

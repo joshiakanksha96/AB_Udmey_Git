@@ -1,0 +1,32 @@
+//need to add before test and before method.
+
+TC01: Add Hard disk to cart
+Launch Browser
+navigate to amazon
+verify bestSeller is displayed
+navigate to BestSeller > Electronics > computer and accesseries > external devices and data storages > external solid state drives
+search for "SanDisk 1TB Extreme Portable SSD 1050MB/s R, 1000MB/s W, IP55 Rated"
+select the product
+check MRP+Price+
+Click on Add to cart
+go to cart > verify product is added to cart
+
+
+TC02: Add Hard disk case to cart
+search for "AirCase 2.5 Inch External Hard Disk Case, Cover, Pouch, HDD Case [RED-Black]"
+select the product
+check MRP+Price+
+Click on Add to cart
+go to cart > verify product is added to cart
+
+
+
+Add testNG Listeners
+Add Maven POM + Surefire Plugin
+Add Maven profiling
+Add Jenkins
+Add extent Reporting
+Add Readt data from excel
+Add Log4j
+D
+

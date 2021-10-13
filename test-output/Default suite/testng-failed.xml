@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" parallel="none">
   <test name="Default test(failed)" parallel="none">
     <classes>
-      <class name="UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingPage">
+      <class name="UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest">
         <methods>
-          <include name="varifyTodaysDealsSection"/>
+          <include name="ProductDetails"/>
         </methods>
-      </class> <!-- UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingPage -->
+      </class> <!-- UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

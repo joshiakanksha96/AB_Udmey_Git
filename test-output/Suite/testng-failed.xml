@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" parallel="none">
-  <test name="Test(failed)" parallel="none">
+  <listeners>
+    <listener class-name="UdmeyAutomation_Selenium.SeleniumE2Eproj.Listeners"/>
+  </listeners>
+  <test name="Check Amazone Product Price(failed)" parallel="none">
     <classes>
-      <class name="UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingPage">
+      <class name="UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest">
         <methods>
-          <include name="navigateToLandingPage"/>
-          <include name="varifyLandingPageElements"/>
+          <include name="navigateToSSD"/>
         </methods>
-      </class> <!-- UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingPage -->
+      </class> <!-- UdmeyAutomation_Selenium.SeleniumE2Eproj.LandingTest -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- Check Amazone Product Price(failed) -->
 </suite> <!-- Failed suite [Suite] -->

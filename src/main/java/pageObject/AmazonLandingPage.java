@@ -11,9 +11,9 @@ public class AmazonLandingPage {
 		this.driver=driver;
 	}
 	
-	private By todaysDeals=By.xpath("//a[@data-csa-c-slot-id='nav_cs_1']");
+	private By bestSellerBtn=By.xpath("//a[@data-csa-c-content-id='nav_cs_bestsellers_17d44cb01bd144359b81b1c10b84dd98']");
 	
 	public WebElement chkTabBestSellerVisibility() {
-		return driver.findElement(todaysDeals);
+		return driver.findElement(bestSellerBtn);
 	}
 }
